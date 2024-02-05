@@ -5,4 +5,5 @@
 
 # 使用教程
 安装wordpress安装插件将打开wordpress_gg.zip压缩包上传
+<br/>
 插件详情地址：<a href="https://blog.itzhiyin.com/archives/179.html" target="_blank">https://blog.itzhiyin.com/archives/179.html</a>
